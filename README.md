@@ -47,6 +47,6 @@ This project can be used in various applications, including but not limited to:
 
 ### Images
 <div style="display: flex; justify-content: space-between;">
-<img src="images/LedOn.png" alt="LED On" style="width: 45%;">
-<img src="images/LedOff.png" alt="LED Off" style="width: 45%;">
+<img src="LedOn.jpg" alt="LED On" style="width: 45%;">
+<img src="LedOff.jpg" alt="LED Off" style="width: 45%;">
 </div>
