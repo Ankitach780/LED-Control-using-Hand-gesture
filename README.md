@@ -45,6 +45,8 @@ This project can be used in various applications, including but not limited to:
 - OpenCV
 - PyFirmata
 
-  ### Images
-  ![alt text](LedOn)
-  ![alt text](LedOff)
+### Images
+<div style="display: flex; justify-content: space-between;">
+<img src="images/LedOn.png" alt="LED On" style="width: 45%;">
+<img src="images/LedOff.png" alt="LED Off" style="width: 45%;">
+</div>
