@@ -51,3 +51,7 @@ This project can be used in various applications, including but not limited to:
 <img src="LedOn.jpg" alt="LED On" style="width: 45%; height:50%">
 <img src="LedOff.jpg" alt="LED Off" style="width: 45%; height:50%">
 </div>
+
+### Links To Check
+https://app.readytensor.ai/publications/led_control_using_hand_gesture_9MifXtbcCo6F
+
